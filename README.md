@@ -1,4 +1,4 @@
-This project was bootstrapped with ![](https://github.com/RomanGurman/React-page/blob/master/image.png)
+![](https://github.com/RomanGurman/React-page/blob/master/image.png)
 
 ## Available Scripts
 
